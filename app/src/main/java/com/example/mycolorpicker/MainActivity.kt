@@ -1,13 +1,14 @@
-package code.with.cal.spinnercolorpicker
+package com.example.mycolorpicker
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.AdapterView
-import code.with.cal.spinnercolorpicker.databinding.ActivityMainBinding
+import com.example.mycolorpicker.databinding.ActivityMainBinding
 import com.example.mycolorpicker.ColorList
 import com.example.mycolorpicker.ColorObject
 import com.example.mycolorpicker.ColorSpinnerAdapter
+
 
 class MainActivity : AppCompatActivity()
 {
